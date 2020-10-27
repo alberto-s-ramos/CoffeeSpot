@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/allan</item>
+        <item>@font/amarante</item>
+        <item>@font/amaranth_italic</item>
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/baloo</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/cabin_italic</item>
+        <item>@font/capriola</item>
+        <item>@font/chela_one</item>
+        <item>@font/comfortaa</item>
+        <item>@font/contrail_one</item>
+        <item>@font/cuprum_bold</item>
+        <item>@font/cuprum_italic</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/kavivanar</item>
+        <item>@font/kenia</item>
+        <item>@font/lobster</item>
+        <item>@font/lobster_two</item>
+        <item>@font/mitr_light</item>
+        <item>@font/nova_slim</item>
+        <item>@font/timmana</item>
+    </array>
+</resources>
